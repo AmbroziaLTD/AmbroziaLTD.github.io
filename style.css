@@ -4,9 +4,6 @@
 }
 #test {
     text-align: center;
-    font-family: Teko;
+    font: Teko;
 }
-@font-face {
-    font-family: Teko;
-    src: url(Teko-VariableFont_wght.ttf);
-}
+
