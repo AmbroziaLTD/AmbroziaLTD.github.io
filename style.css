@@ -15,21 +15,4 @@ hr {
 a {
     text-decoration: none;
     color: #654321;
-    float: left;
-    font-weight: bolder;
-    font-size: 20;
-}
-a:hover {
-    text-decoration: none;
-    color: #654321;
-    float: left;
-    font-weight: bolder;
-    font-size: 20;
-}
-a:active {
-    text-decoration: none;
-    color: #654321;
-    float: left;
-    font-weight: bolder;
-    font-size: 20;
 }
