@@ -15,4 +15,5 @@ hr {
 a {
     text-decoration: none;
     color: #654321;
+    float:left;
 }
