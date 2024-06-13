@@ -20,6 +20,6 @@ a {
 }
 .grid-container {
     display: grid;
-    column-gap: 50px;
+    column-gap: 5px;
     grid-column: auto auto auto;
 }
