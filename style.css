@@ -21,4 +21,5 @@ a {
 .grid-container {
     display: grid;
     column-gap: 50px;
+    grid-column: auto auto auto;
 }
