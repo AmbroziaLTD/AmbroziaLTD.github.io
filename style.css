@@ -11,6 +11,7 @@ body {
 }
 hr {
     background-color: #654321;
+    text-align:center;
 }
 a {
     text-decoration: none;
