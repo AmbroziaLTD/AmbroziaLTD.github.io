@@ -11,16 +11,19 @@ body {
 }
 hr {
     background-color: #654321;
-}
+
 a {
+	font-color: #8c3b1d;
     text-decoration: none;
-    color: #654321;
-    float:left;
-    padding-left: 50pt;
+    font-size:20px;
 }
-.grid-container {
-    display: grid;
-    column-gap: 5px;
-    grid-column: auto auto auto;
-    align-self: center;
+a:hover {
+	font-color: #8c3b1d;
+    text-decoration: none;
+    font-size:20px;
+}
+a:active {
+	font-color: #8c3b1d;
+    text-decoration: none;
+    font-size:20px;
 }
