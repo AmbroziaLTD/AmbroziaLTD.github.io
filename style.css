@@ -11,3 +11,6 @@ body {
 hr {
     background-color: #654321;
 }
+a {
+    text-decoration: none;
+}
