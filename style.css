@@ -20,6 +20,5 @@ a {
 }
 .grid-container {
     display: grid;
-    align-self: center;
     column-gap: 50px;
 }
